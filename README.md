@@ -1,5 +1,5 @@
 # hello-world
 General Stef stuff
 
-H1 Some cool info
+### Some cool info
 Seals are cool
